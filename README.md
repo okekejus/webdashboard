@@ -3,8 +3,7 @@
 - Background 
 - Objective 
 - Tools and Packages 
-- Data Collection & Processing
-- Data Visualization 
+- Data Collection & Processing 
 - Results
 
 
@@ -38,6 +37,22 @@ This project was done entirely using R:
 |----------------------|-------------------------------------------------------|
 |redcap_read_oneshot() |Gathering clinical data for each patient               |
 |followup_scan()       |Function for data transformation for dashboard purposes|
+| HTML iFrame          | For embedding dashboards into web pages               |
+
+
+## Results
+![image](https://user-images.githubusercontent.com/91495866/165196945-5d481002-9883-425e-875d-60c6ed55404f.png)
+
+The image above is from the dashboard on the home page, which can be accessed [here](http://ontariobirthstudy.com/)
+
+
+![image](https://user-images.githubusercontent.com/91495866/165197109-87ff9d2f-2bf7-4274-b72f-91bd9152998c.png)
+The image above is from the more detailed researcher dashboard, which goes into granular detail regarding the details of the study. 
+
+Benefits include:
+- Focusing on & broadcasting KPIs to relevant stakeholders. 
+- Fully customizable depending on business or stakeholder interests. 
+- Data consolidation 
 
 
 
