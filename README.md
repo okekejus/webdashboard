@@ -47,14 +47,9 @@ The image above is from the dashboard on the home page, which can be accessed [h
 
 
 ![image](https://user-images.githubusercontent.com/91495866/165197109-87ff9d2f-2bf7-4274-b72f-91bd9152998c.png)
-The image above is from the more detailed researcher dashboard, which goes into granular detail regarding the details of the study. 
+The image above is from the more detailed researcher dashboard, which goes into granular detail regarding the details of the [study](http://ontariobirthstudy.com/researchers/). 
 
 Benefits include:
 - Focusing on & broadcasting KPIs to relevant stakeholders. 
 - Fully customizable depending on business or stakeholder interests. 
 - Data consolidation 
-
-
-
-
-I was tasked with displaying the OBS' progress in an exciting manner to visitors of our website. I was able to do this using R (Shiny). Two versions of the dashboard exist, a simplified version for anyone who visits the [home page](http://ontariobirthstudy.com/) and another for [prospective researchers](http://ontariobirthstudy.com/researchers/) interested in OBS Data and Specimens. 
