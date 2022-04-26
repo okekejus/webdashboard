@@ -10,7 +10,7 @@
 
 
 ## Background 
-I spent some time in a Data Specialist role for the Ontario Birth Study[http://ontariobirthstudy.com/], and during this time we outlined a need for an informative dashboard of OBS progress while I constructed the new website. 
+I spent some time in a Data Specialist role for the [Ontario Birth Study](http://ontariobirthstudy.com/), and during this time we outlined a need for an informative dashboard of OBS progress while I constructed the new website. 
 
 
 ## Objective 
